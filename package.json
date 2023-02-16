@@ -1,0 +1,22 @@
+{
+  "name": "productbooking",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.6",
+    "bip39": "^3.0.4",
+    "dotenv": "^16.0.3",
+    "ethereumjs-wallet": "^1.0.2",
+    "ethers": "^6.0.3",
+    "web3": "^1.8.2"
+  },
+  "devDependencies": {
+    "hardhat": "^2.12.7"
+  },
+  "description": ""
+}
